@@ -2,15 +2,16 @@ import Paragrafo from '../Paragrafo'
 import Titulo from '../Titulo'
 import { Card, LinkBotao } from './styles'
 
-const Projeto = () => (
+const Projeto02 = () => (
   <Card>
     <Titulo>Projeto Lista de tarefas</Titulo>
     <Paragrafo tipo="secundario">
-      Criando uma landing page de um evento fictício, usando HTML, CSS e
-      JavaScript, tendo como o Parcel como ferramenta principal.
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea eum dicta
+      fugit sit assumenda tempora explicabo illo nulla eaque dolorum cum maxime,
+      dignissimos, iste officia vero ex in facilis facere.
     </Paragrafo>
     <LinkBotao>Visualizar</LinkBotao>
   </Card>
 )
 
-export default Projeto
+export default Projeto02
